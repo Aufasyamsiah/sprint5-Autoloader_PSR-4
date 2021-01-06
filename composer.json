@@ -1,0 +1,16 @@
+{
+    "name": "asus/tugas2",
+    "description": "membuat rumus bangun datar",
+    "authors": [
+        {
+            "name": "Aufa Syamsiah",
+            "email": "aufasyamsiah5@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
